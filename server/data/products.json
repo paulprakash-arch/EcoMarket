@@ -1,0 +1,222 @@
+[
+{
+    "name": "OPPO",
+    "price": 245.67,
+    "description": "EAT APPLE STAY HEALTHY",
+    "expirydate": "2023-12-31",
+    "images": [
+        {
+            "image": "/images/products/1.jpg"
+        },
+        {
+            "image": "/images/products/2.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "seller": "Amazon",
+    "stock": 5,
+    
+        "doorNumber": "1234 Main Street",
+        "city": "Summa",
+        "state": "NY"
+      
+},
+{
+    "name": "VIVO",
+    "price": 245.67,
+    "description": "EAT APPLE STAY HEALTHY",
+    "expirydate": "2023-12-31",
+    "images": [
+        {
+            "image": "/images/products/5.jpg"
+        },
+        {
+            "image": "/images/products/2.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "seller": "Amazon",
+    "stock": 5,
+    
+        "doorNumber": "1234 Main Street",
+        "city": "Summa",
+        "state": "NY"
+      
+},
+{
+    "name": "REALME",
+    "price": 245.67,
+    "description": "EAT APPLE STAY HEALTHY",
+    "expirydate": "2023-12-31",
+    "images": [
+        {
+            "image": "/images/products/3.jpg"
+        },
+        {
+            "image": "/images/products/2.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "seller": "Amazon",
+    "stock": 5,
+    
+        "doorNumber": "1234 Main Street",
+        "city": "Summa",
+        "state": "NY"
+      
+},
+{
+    "name": "MI",
+    "price": 245.67,
+    "description": "EAT APPLE STAY HEALTHY",
+    "expirydate": "2023-12-31",
+    "images": [
+        {
+            "image": "/images/products/4.jpg"
+        },
+        {
+            "image": "/images/products/2.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "seller": "Amazon",
+    "stock": 5,
+    
+        "doorNumber": "1234 Main Street",
+        "city": "Summa",
+        "state": "NY"
+      
+},
+{
+    "name": "Phone",
+    "price": 245.67,
+    "description": "EAT APPLE STAY HEALTHY",
+    "expirydate": "2023-12-31",
+    "images": [
+        {
+            "image": "/images/products/5.jpg"
+        },
+        {
+            "image": "/images/products/2.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "seller": "Amazon",
+    "stock": 5,
+    
+        "doorNumber": "1234 Main Street",
+        "city": "Summa",
+        "state": "NY"
+      
+},
+{
+    "name": "ONEPLUS",
+    "price": 245.67,
+    "description": "EAT APPLE STAY HEALTHY",
+    "expirydate": "2023-12-31",
+    "images": [
+        {
+            "image": "/images/products/2.jpg"
+        },
+        {
+            "image": "/images/products/2.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "seller": "Amazon",
+    "stock": 5,
+    
+        "doorNumber": "1234 Main Street",
+        "city": "Summa",
+        "state": "NY"
+      
+},
+{
+    "name": "Apple",
+    "price": 245.67,
+    "description": "EAT APPLE STAY HEALTHY",
+    "expirydate": "2023-12-31",
+    "images": [
+        {
+            "image": "/images/products/3.jpg"
+        },
+        {
+            "image": "/images/products/2.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "seller": "Amazon",
+    "stock": 5,
+    
+        "doorNumber": "1234 Main Street",
+        "city": "Summa",
+        "state": "NY"
+      
+},
+{
+    "name": "Apple",
+    "price": 245.67,
+    "description": "EAT APPLE STAY HEALTHY",
+    "expirydate": "2023-12-31",
+    "images": [
+        {
+            "image": "/images/products/4.jpg"
+        },
+        {
+            "image": "/images/products/2.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "seller": "Amazon",
+    "stock": 5,
+    
+        "doorNumber": "1234 Main Street",
+        "city": "Summa",
+        "state": "NY"
+      
+},
+{
+    "name": "Apple",
+    "price": 245.67,
+    "description": "EAT APPLE STAY HEALTHY",
+    "expirydate": "2023-12-31",
+    "images": [
+        {
+            "image": "/images/products/5.jpg"
+        },
+        {
+            "image": "/images/products/2.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "seller": "Amazon",
+    "stock": 5,
+    
+        "doorNumber": "1234 Main Street",
+        "city": "Summa",
+        "state": "NY"
+      
+},
+{
+    "name": "Apple",
+    "price": 245.67,
+    "description": "EAT APPLE STAY HEALTHY",
+    "expirydate": "2023-12-31",
+    "images": [
+        {
+            "image": "/images/products/1.jpg"
+        },
+        {
+            "image": "/images/products/2.jpg"
+        }
+    ],
+    "category": "Fruits",
+    "seller": "Amazon",
+    "stock": 5,
+    
+        "doorNumber": "1234 Main Street",
+        "city": "Summa",
+        "state": "NY"
+      
+}
+]
